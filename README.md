@@ -14,4 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Study At
+ - UCSD(University of California in San Diego)
+   Major : Computer Science
+   GPA : 3.63
+   
+
+### Proficient in
+ - Back-end : Node(Express js, Socket.io), PHP
+ - Front-End : React.js, Bootstrap, jQuery, HTML, Javascript, CSS
+ - Database : Postgresql, MYSQL, SQLite
+ - Others : Redis, Docker, Jira, Confluence,
+            AWS(ECS, ECR, EC2, S3, Route53, CloudFront, Lambda, RDS, VPC),
+            CMS(WordPress, Wix)
+
 ![kelgerta's github stats](https://github-readme-stats.vercel.app/api?username=kelgerta&show_icons=true&hide_border=true&count_private=true) 
