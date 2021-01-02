@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Study At
- - UCSD(University of California in San Diego) \n
-   Major : Computer Science(GPA 3.63)
+ - UCSD(University of California in San Diego) 
+ - - Major : Computer Science(GPA 3.63)
    
 
 ### Proficient in
