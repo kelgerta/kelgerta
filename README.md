@@ -21,11 +21,11 @@ Here are some ideas to get you started:
    
 
 ### Proficient in
- - Back-end : Node(Express js, Socket.io), PHP
+ - Back-end : Node(NestJS, Express js, Socket.io), PHP
  - Front-End : React.js, Bootstrap, jQuery, HTML, Javascript, CSS
  - Database : Postgresql, MYSQL, SQLite
- - Others : Redis, Docker, Jira, Confluence,
-            AWS(ECS, ECR, EC2, S3, Route53, CloudFront, Lambda, RDS, VPC),
+ - Others : Redis, Docker, Jira, Confluence, Typescript,
+            AWS(ECS, ECR, EC2, S3, Route53, CloudFront, Lambda, RDS, VPC, Amazon Rekognition),
             ELK(Elasticsearch, Logstach, Kibana) with beats,
             CMS(WordPress, Wix),
             Unity
