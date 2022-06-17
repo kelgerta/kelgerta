@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Proficient in
  - Back-end : Node(NestJS, Express js, Socket.io), PHP
- - Front-End : React.js, Bootstrap, jQuery, HTML, Javascript, CSS
+ - Front-End : React.js(CRA, Next), React Native, Bootstrap, jQuery, HTML, Javascript, CSS
  - Database : Postgresql, MYSQL, SQLite
  - Others : Redis, Docker, Jira, Confluence, Typescript,
             AWS(ECS, ECR, EC2, S3, Route53, CloudFront, Lambda, RDS, VPC, Amazon Rekognition),
