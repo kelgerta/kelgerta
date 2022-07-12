@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  - Database : Postgresql, MYSQL, SQLite
  - Others : Redis, Docker, Jira, Confluence, Typescript,
             AWS(ECS, ECR, EC2, S3, Route53, CloudFront, Lambda, RDS, VPC, Amazon Rekognition),
-            ELK(Elasticsearch, Logstach, Kibana) with beats,
+            ELK(Elasticsearch, Logstach, Kibana) with beats, Sentry,
             CMS(WordPress, Wix),
             Unity
 
