@@ -19,13 +19,12 @@ Here are some ideas to get you started:
  - UCSD(University of California in San Diego) 
    - Major : Computer Science(GPA 3.63/4.00)
    
-
 ### Proficient in
  - Back-end : Node(NestJS, Express js, Socket.io), PHP
  - Front-End : React.js(CRA, Next), React Native, Bootstrap, jQuery, HTML, Javascript, CSS
  - Database : Postgresql, MYSQL, SQLite
  - Others : Redis, Docker, Jira, Confluence, Typescript,
-            AWS(ECS, ECR, EC2, S3, Route53, CloudFront, Lambda, RDS, VPC, Amazon Rekognition),
+            AWS(ECS, ECR, EC2, S3, CodeBuild, Route53, CloudFront, Lambda, RDS, VPC, Amazon Rekognition),
             ELK(Elasticsearch, Logstach, Kibana) with beats, Sentry,
             CMS(WordPress, Wix),
             Unity
