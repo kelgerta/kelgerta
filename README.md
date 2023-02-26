@@ -22,10 +22,15 @@ Here are some ideas to get you started:
 ### Proficient in
  - Back-end : Node(NestJS, Express js, Socket.io), PHP
  - Front-End : React.js(CRA, Next), React Native, Bootstrap, jQuery, HTML, Javascript, CSS
- - Database : Postgresql, MYSQL, SQLite
- - Others : Redis, Docker, Jira, Confluence, Typescript,
-            AWS(ECS, ECR, EC2, S3, CodeBuild, Route53, CloudFront, Lambda, RDS, VPC, Amazon Rekognition),
-            ELK(Elasticsearch, Logstach, Kibana) with beats, Sentry,
+ - Language : Typescript, Node, Javascript, PHP
+ - Database : Postgresql, MySQL, SQLite
+ - WebServer : Nginx, Apache
+ - In-Memory Data Store : Redis
+ - Monitoring : CloudWatch, ELK(Elasticsearch, Logstach, Kibana) with beats, Sentry,
+ - Stress Testing Tools : Jmeter, Artillery
+ - Others : Redis, Docker, Git, SEO, Jira, Confluence,
+            AWS(ECS, ECR, EC2, Lambda, S3, CloudFront, RDS, Route53, Codebuild, VPC, Amazon Rekognition, WAF, ALB),
+            Firebase,
             CMS(WordPress, Wix),
             Unity
 
